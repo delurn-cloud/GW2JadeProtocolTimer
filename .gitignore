@@ -1,0 +1,28 @@
+# Visual Studio workspace data
+.vs/
+
+# User-specific Visual Studio / IDE files
+*.csproj.user
+*.pubxml.user
+*.suo
+*.futdcache
+*.user
+*.user.*
+
+# Build and publish output
+bin/
+obj/
+
+# Generated Inno Setup installer
+GW2JadeProtocolTimer-setup.exe
+GW2JadeProtocolTimer.iss
+
+# Publish profile kept local (see FolderProfile.pubxml)
+Properties/PublishProfiles/FolderProfile1.pubxml
+
+# Logs and temporary files
+*.log
+*.tmp
+*.temp
+*~
+*.bak
